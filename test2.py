@@ -1,0 +1,2 @@
+s="WELCOME TO PYTHON STRINGS CONCCEPT"
+print(s[0:12]+s[18:])
